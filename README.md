@@ -20,8 +20,6 @@ Whilst simplified, the project reflects many of the analytical concepts used wit
 - SQL database querying (SQLite)
 - Exploratory data analysis
 - Statistical visualisation
-- Illustrative AAL
-- Illustrative PML
 
 ### Repository Contents
 
